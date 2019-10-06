@@ -19,6 +19,7 @@
 * [accellera](http://www.accellera.org) - Группы по стандартизации, воплотившие в жизнь большинство современных стандартов типа SystemC, OVL, UVM, IP-XACT и.т.п. Собственно содержит сами стандарты и материалы и презентации из поясняющие (качество материалов на мой взгляд среднее)
 * [doulos](http://www.doulos.com) - ресурс направленный на обучение современным методикам верификации, работы с ПЛИC и разработки встроенного ПО. Содержит бесплатные материалы базового уровня (хорошего качества) и ссылки на платные курсы
 * [verificationacademy](http://www.verificationacademy.com) - ресурс направленный на обучение современным методикам верификации. Создан под патронажем Mentor Graphics. Содержит обучающие материалы хорошего качества + сообщество.
+* [verificationguide](www.verificationguide.com) - Неплохие вводные туториалы по SV, UVM, SystemC
 * [Cadence](http://www.cadence.com) - Официальный сайт поставщика САПР. При регистрации даёт доступ к материалам, в том числе, связанным с методикам верификации. Возможна свободная регистрация, однако привязка аккаунта к фирме, использующей данный САПР дает более широкий доступ к информации. Естественно материалы ориентированы на использование САПР компании.
 * [Synopsys](http://www.synopsys.com) - Официальный сайт поставщика САПР. При регистрации даёт доступ к материалам, в том числе, связанным с методикам верификации. Возможна свободная регистрация, однако привязка аккаунта к фирме, использующей данный САПР дает более широкий доступ к информации. Естественно материалы ориентированы на использование САПР компании.
 * [Mentor(Siemens)](http://www.mentor.com) - Официальный сайт поставщика САПР. При регистрации даёт доступ к материалам, в том числе, связанным с методикам верификации. Возможна свободная регистрация, однако привязка аккаунта к фирме, использующей данный САПР дает более широкий доступ к информации. Естественно материалы ориентированы на использование САПР компании.
@@ -28,9 +29,11 @@
 * [chipdesignmag](http://chipdesignmag.com)
 * [systemverilog](http://systemverilog.ru/) - SystemVerilog по русски
 * [edaplayground sandbox](https://www.edaplayground.com/) - онлайн сервис. Сайт  предоставляет возможность бесплатно  попробовать компиляцию и симуляцию HDL кода и окружений на коммерческих симуляторах.
+
+## Code examples
+
 * [SV/UVM patterns examples and tricks](https://github.com/tenthousandfailures/systemverilog-design-patterns) - Примеры применения паттернов программирования в SystemVerilog и ряд других интересных примеров от специалиста из Intel
-
-
+* [custom_uvm_report_server](https://github.com/kaushalmodi/custom_uvm_report_server) - Пример реализации пользовательского UVM сервера печати
 
 # Courses and workshops
 
@@ -76,6 +79,7 @@
 # Conferences
 
 * [Design Automation Conference (DAC)](https://dac.com/)
+* [Design and Verification Conference (DVCON)](https://dvcon.org/)
 * [Design, Automation And Test In Europe (DATE)](https://www.date-conference.com/)
 * [IEEE EAST-WEST DESIGN & TEST SYMPOSIUM (EWDTS)](https://conf.ewdtest.com/)
 * [Проблемы разработки перспективных  микро- и наноэлектронных систем (МЭС)](http://www.mes-conference.ru/index.php?ls=ru)
