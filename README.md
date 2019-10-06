@@ -28,6 +28,7 @@
 * [chipdesignmag](http://chipdesignmag.com)
 * [systemverilog](http://systemverilog.ru/) - SystemVerilog по русски
 * [edaplayground sandbox](https://www.edaplayground.com/) - онлайн сервис. Сайт  предоставляет возможность бесплатно  попробовать компиляцию и симуляцию HDL кода и окружений на коммерческих симуляторах.
+* [SV/UVM patterns examples and tricks](https://github.com/tenthousandfailures/systemverilog-design-patterns) - Примеры применения паттернов программирования в SystemVerilog и ряд других интересных примеров от специалиста из Intel
 
 
 
