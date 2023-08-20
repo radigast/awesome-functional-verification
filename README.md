@@ -18,18 +18,18 @@
 
 * [accellera](http://www.accellera.org) - Группы по стандартизации, воплотившие в жизнь большинство современных стандартов типа SystemC, OVL, UVM, IP-XACT и.т.п. Собственно содержит сами стандарты и материалы и презентации их поясняющие (качество дополнительных материалов на мой взгляд среднее)
 * [doulos](http://www.doulos.com) - ресурс направленный на обучение современным методикам верификации, работы с ПЛИC и разработки встроенного ПО. Содержит бесплатные материалы (в том числе видео) базового уровня (хорошего качества) и ссылки на платные курсы
-* [verificationacademy](http://www.verificationacademy.com) - ресурс направленный на обучение современным методикам верификации. Создан под патронажем Mentor Graphics. Содержит обучающие материалы хорошего качества, большое число видео + сообщество.
+* [verificationacademy](http://www.verificationacademy.com) - ресурс направленный на обучение современным методикам верификации. Создан под патронажем Mentor Graphics (теперь Siemens). Содержит обучающие материалы хорошего качества, большое число видео + сообщество.
 * [verificationguide](http://www.verificationguide.com) - Неплохие вводные туториалы по SV, UVM, SystemC. Примеры кода с линками на [edaplayground](https://www.edaplayground.com/)
 * [chipverify](http://www.chipverify.com) - Вводные туториалы по Verilog, SV, UVM. Плюс ресурса - большой объем примеров кода, иногда встречаются хорошие картинки или гифки поясняющие материал. При этом субъективно на
-* [verificationguide](http://www.verificationguide.com)  даются более доходчивые и полные текстовые пояснения.
 * [testbench.in](http://www.testbench.in) - Туториалы и примеры по SV, UVM, концепциям построения тестбенчей и старым методологиям типа VMM, OpenVera. Визульно менее приятный чем тот же [verificationguide](http://www.verificationguide.com), однако в качестве доп источника может быть интересен.
 * [asicguru](http://www.asicguru.com/) - Материалы по verilog, vmm, ovm. Ресурс выглядит недоделанным и заброшенным, многие ссылки давно не проверялись
+* [cluelogic](http://cluelogic.com/) - Разные рецепты по UVM
 * [Cadence](http://www.cadence.com) - Официальный сайт поставщика САПР. При регистрации даёт доступ к материалам, в том числе, связанным с методикам верификации. Возможна свободная регистрация, однако привязка аккаунта к фирме, использующей данный САПР дает более широкий доступ к информации. Естественно материалы ориентированы на использование САПР компании.
 * [Synopsys](http://www.synopsys.com) - Официальный сайт поставщика САПР. При регистрации даёт доступ к материалам, в том числе, связанным с методикам верификации. Возможна свободная регистрация, однако привязка аккаунта к фирме, использующей данный САПР дает более широкий доступ к информации. Естественно материалы ориентированы на использование САПР компании.
 * [Mentor(Siemens)](http://www.mentor.com) - Официальный сайт поставщика САПР. При регистрации даёт доступ к материалам, в том числе, связанным с методикам верификации. Возможна свободная регистрация, однако привязка аккаунта к фирме, использующей данный САПР дает более широкий доступ к информации. Естественно материалы ориентированы на использование САПР компании.
 * [verilab](http://www.verilab.com/resources/papers-and-presentations/) - материалы, статьи и тренинги по верификации
 * [sunburst-design](http://www.sunburst-design.com/papers/)
-* [Verification Horizons (Mentor)](https://www.mentor.com/products/fv/verificationhorizons/)
+* [Verification Horizons (Mentor)](https://www.mentor.com/products/fv/verificationhorizons/ Пропал. Теперь линк на рекламу Questa.)
 * [edacafe](http://www10.edacafe.com) - журнал. Есть материалы по верификации
 * [chipdesignmag](http://chipdesignmag.com)
 * [systemverilog](http://systemverilog.ru/) - SystemVerilog по русски
@@ -79,7 +79,7 @@
 ## Simulation and debug
 
 * [Verilator](http://www.veripool.org/wiki/verilator) базируется на преобразовании verilog в С
-* [ICARUS](http://iverilog.icarus.com) открытый RTL ситмулятор
+* [ICARUS](https://steveicarus.github.io/iverilog/index.html) открытый RTL ситмулятор
 * [QEMU](http://wiki.qemu.org/Main_Page) платформа для создания высокоуровневых симуляторов
 * [GTKWAVE](http://gtkwave.sourceforge.net) GTKWAVE - свободный просмотрщик waveform (vcd support)
 * [impulse waveforms](https://marketplace.eclipse.org/content/impulse#group-screenshots) - Плагин для elclipse, позволяющий просматривать вэйвформы (vcd)
@@ -135,6 +135,7 @@
 # Awesome lists
 
 * [languages for HDL creation](https://github.com/drom/awesome-hdl)
+* [Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
 * [awesome-software-quality(ENG)](https://github.com/ligurio/awesome-software-quality#formal-software-verification) - смежная область верификация ПО
 * [awesome-software-quality(RUS)](https://github.com/ligurio/awesome-software-quality#%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%9F%D0%9E) - смежная область верификация ПО
 
