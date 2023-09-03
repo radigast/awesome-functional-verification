@@ -16,9 +16,10 @@
 
 информационные, обучающие и новостные ресурсы в интернете, связанные с темой функциональной верификации или содержащие метериалы, посвященные данной тематике.
 
-* [accellera](http://www.accellera.org) - Группы по стандартизации, воплотившие в жизнь большинство современных стандартов типа SystemC, OVL, UVM, IP-XACT и.т.п. Собственно содержит сами стандарты и материалы и презентации их поясняющие (качество дополнительных материалов на мой взгляд среднее)
+* [accellera](http://www.accellera.org) - Группы по стандартизации, воплотившие в жизнь большинство современных стандартов типа SystemC, OVL, UVM, IP-XACT и.т.п. Собственно содержит сами стандарты, материалы и презентации их поясняющие (качество дополнительных материалов на мой взгляд среднее, интересны сами стандарты)
 * [doulos](http://www.doulos.com) - ресурс направленный на обучение современным методикам верификации, работы с ПЛИC и разработки встроенного ПО. Содержит бесплатные материалы (в том числе видео) базового уровня (хорошего качества) и ссылки на платные курсы
-* [verificationacademy](http://www.verificationacademy.com) - ресурс направленный на обучение современным методикам верификации. Создан под патронажем Mentor Graphics (теперь Siemens). Содержит обучающие материалы хорошего качества, большое число видео + сообщество.
+* [verificationacademy (Mentor/Simenes)](http://www.verificationacademy.com) - ресурс направленный на обучение современным методикам верификации. Создан под патронажем Mentor Graphics (теперь Siemens). Содержит обучающие материалы хорошего качества, большое число видео + сообщество.
+* [Verification Horizons (Mentor/Simenes)](https://verificationacademy.com/verification-horizons) Электронный журнал по теме функциональной верфикации
 * [verificationguide](http://www.verificationguide.com) - Неплохие вводные туториалы по SV, UVM, SystemC. Примеры кода с линками на [edaplayground](https://www.edaplayground.com/)
 * [chipverify](http://www.chipverify.com) - Вводные туториалы по Verilog, SV, UVM. Плюс ресурса - большой объем примеров кода, иногда встречаются хорошие картинки или гифки поясняющие материал. При этом субъективно на
 * [testbench.in](http://www.testbench.in) - Туториалы и примеры по SV, UVM, концепциям построения тестбенчей и старым методологиям типа VMM, OpenVera. Визульно менее приятный чем тот же [verificationguide](http://www.verificationguide.com), однако в качестве доп источника может быть интересен.
@@ -29,7 +30,6 @@
 * [Mentor(Siemens)](http://www.mentor.com) - Официальный сайт поставщика САПР. При регистрации даёт доступ к материалам, в том числе, связанным с методикам верификации. Возможна свободная регистрация, однако привязка аккаунта к фирме, использующей данный САПР дает более широкий доступ к информации. Естественно материалы ориентированы на использование САПР компании.
 * [verilab](http://www.verilab.com/resources/papers-and-presentations/) - материалы, статьи и тренинги по верификации
 * [sunburst-design](http://www.sunburst-design.com/papers/)
-* [Verification Horizons (Mentor)](https://www.mentor.com/products/fv/verificationhorizons/ Пропал. Теперь линк на рекламу Questa.)
 * [edacafe](http://www10.edacafe.com) - журнал. Есть материалы по верификации
 * [chipdesignmag](http://chipdesignmag.com)
 * [systemverilog](http://systemverilog.ru/) - SystemVerilog по русски
@@ -39,6 +39,7 @@
 
 * [SV/UVM patterns examples and tricks](https://github.com/tenthousandfailures/systemverilog-design-patterns) - Примеры применения паттернов программирования в SystemVerilog и ряд других интересных примеров от специалиста из Intel
 * [custom_uvm_report_server](https://github.com/kaushalmodi/custom_uvm_report_server) - Пример реализации пользовательского UVM сервера печати
+* [uvm agent generator](https://github.com/blargony/uvm_agent_gen) - Генератор кзаготовки UVM агента на основе шаблона
 
 ## Patterns
 
@@ -50,7 +51,8 @@
 
 ## Codyng Style
 
-[Easier UVM Coding Style](https://www.doulos.com/knowhow/sysverilog/uvm/easier_uvm_guidelines/summary/)
+* [Easier UVM Coding Guidelines](https://www.doulos.com/knowhow/systemverilog/uvm/easier-uvm/easier-uvm-coding-guidelines/summary-of-the-easier-uvm-coding-guidelines/) Рекомендации по стилю кодирования при написании UVM окружений от Doulos
+* Coding Guidelines из Mentor/Siemens Universal Verification Methodology UVM Cookbook (2018). (Есть минорные расхождения c Coding Guidelines)
 
 Подходы, изложенные в приведенных ниже книгах применимы и для верификацонного кода, особенно если речь идет о ООП коде на UVM/SystemVerilog
 
@@ -87,7 +89,6 @@
 
 
 
-
 ## Frameworks
 
 * [https://cocotb.readthedocs.io](https://cocotb.readthedocs.io) платформа для создания тестбенчей на Python
@@ -120,6 +121,7 @@
 * Проектирование и верификация цифровых систем на кристаллах. Verilog,  System Verilog (2010).     Авторы: Хаханов В.И. Первая полноценная книга по SV на русском языке.
 * Professional Verification. A Guide to Advanced Functional Verification. Авторы: Paul Wilcox (2004)
 * UVM Golden Reference Guide (2013). Авторы: Doulos.  Учебник по UVM от Doulos
+* Mentor/Siemens Universal Verification Methodology UVM Cookbook (2018).
 * The Power of Assertions in SystemVerilog (2010) Авторы: Eduard Cerny
 * The Easier UVM Coding Guidelines (2015). Авторы: Doulos. Рекомендации по стилю написания UVM кода.
 * Systemverilog golden reference guide-Doulos (2012). Авторы: Doulos. Systemverilog golden reference guide
