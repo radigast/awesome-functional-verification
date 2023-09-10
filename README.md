@@ -20,6 +20,7 @@
 * [doulos](http://www.doulos.com) - ресурс направленный на обучение современным методикам верификации, работы с ПЛИC и разработки встроенного ПО. Содержит бесплатные материалы (в том числе видео) базового уровня (хорошего качества) и ссылки на платные курсы
 * [verificationacademy (Mentor/Simenes)](http://www.verificationacademy.com) - ресурс направленный на обучение современным методикам верификации. Создан под патронажем Mentor Graphics (теперь Siemens). Содержит обучающие материалы хорошего качества, большое число видео + сообщество.
 * [Verification Horizons (Mentor/Simenes)](https://verificationacademy.com/verification-horizons) Электронный журнал по теме функциональной верфикации
+* [html документация по UVM собранная VerificationAcademy](https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.2/html/). В поставляеямой вместе с референсным кодом UVM документацией есть проблемы с навигацией и полнотой документации, по данной ссылке она полная.
 * [verificationguide](http://www.verificationguide.com) - Неплохие вводные туториалы по SV, UVM, SystemC. Примеры кода с линками на [edaplayground](https://www.edaplayground.com/)
 * [chipverify](http://www.chipverify.com) - Вводные туториалы по Verilog, SV, UVM. Плюс ресурса - большой объем примеров кода, иногда встречаются хорошие картинки или гифки поясняющие материал. При этом субъективно на
 * [testbench.in](http://www.testbench.in) - Туториалы и примеры по SV, UVM, концепциям построения тестбенчей и старым методологиям типа VMM, OpenVera. Визульно менее приятный чем тот же [verificationguide](http://www.verificationguide.com), однако в качестве доп источника может быть интересен.
@@ -33,6 +34,8 @@
 * [edacafe](http://www10.edacafe.com) - журнал. Есть материалы по верификации
 * [chipdesignmag](http://chipdesignmag.com)
 * [systemverilog](http://systemverilog.ru/) - SystemVerilog по русски
+* [VerifSudha](https://www.verifsudha.com/) - Индийская компания, в числе прочего предоставляющая услуги по обучению и консультациям в области верификации. На сайте есть тематический блог, иногда попадаются интересные заметки.
+
 * [edaplayground sandbox](https://www.edaplayground.com/) - онлайн сервис. Сайт  предоставляет возможность бесплатно  попробовать компиляцию и симуляцию HDL кода и окружений на коммерческих симуляторах.
 
 ## Code examples
